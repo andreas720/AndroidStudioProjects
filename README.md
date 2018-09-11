@@ -1,2 +1,2 @@
-# AndroidStudioProjects
-Repo containing Android Studio Projects
+# android-studio-projects
+Repo containing Android Studio projects
